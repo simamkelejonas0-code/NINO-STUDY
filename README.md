@@ -3,6 +3,17 @@
 Created by SIIMAMKELE NGXONONO from KIRKWOOD - Msengeni 6120, Eastern Cape, South Africa
 Built 100% on phone in Termux. No PC. No Android Studio. No WiFi.
 
+## DOWNLOAD - Just Install (No Building Needed)
+
+**Don't want to build? Just install:**
+
+1. Go to Releases on this repo, or download `NINO-STUDY-v1.0-CLEAN.apk` from the files above
+2. Tap the APK -> Install -> Open
+3. Works in FLIGHT MODE, offline, no data needed
+
+**For ONLINE Muse Spark:** Put your own API key file named `mtm_key_txt` in Downloads folder. The app reads it. No key is inside this APK.
+
+---
 ## Why I Created This App
 
 I live in Msengeni, Kirkwood. In my village, and in townships and rural schools across South Africa, learners suffer the same thing:
